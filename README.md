@@ -20,6 +20,8 @@
 
 The platform leverages **ADK workflow graph concepts**, **MCP server tools**, and secure local CLI skills to coordinate autonomous agents capable of reasoning, prioritizing, and scheduling tasks.
 
+<img width="1917" height="912" alt="Image" src="https://github.com/user-attachments/assets/af1c4c69-4dd5-447d-997e-973b4c56d58d" />
+
 ### 🧠 OmniPilot AI allows users to:
 
 * 🤖 Coordinate multiple specialized AI agents
